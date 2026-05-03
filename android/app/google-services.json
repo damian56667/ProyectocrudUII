@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "176980771513",
+    "project_id": "perfumeria-6c977",
+    "storage_bucket": "perfumeria-6c977.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176980771513:android:a0935c0cf1e62703cd1168",
+        "android_client_info": {
+          "package_name": "com.example.perfumeriacrud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHEDSsA3gyZt3oC9nCxAMah5ot7L1RTPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
